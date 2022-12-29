@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fcc_25_plus_5_clock/static/css/main.846cb7fb.css",
+    "main.js": "/fcc_25_plus_5_clock/static/js/main.86a96642.js",
+    "index.html": "/fcc_25_plus_5_clock/index.html",
+    "main.846cb7fb.css.map": "/fcc_25_plus_5_clock/static/css/main.846cb7fb.css.map",
+    "main.86a96642.js.map": "/fcc_25_plus_5_clock/static/js/main.86a96642.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.846cb7fb.css",
+    "static/js/main.86a96642.js"
+  ]
+}
