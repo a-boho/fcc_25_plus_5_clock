@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk&family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #2980b9;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Hanken Grotesk', sans-serif;
+  min-height: 100vh;
+  text-align: center;
+}
+
+button {
+  background-color: transparent;
+  color: #fff;
+  font-size: 20px;
+  padding: 10px 15px;
+  margin: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.main-title {
+  font-size: 50px;
+  padding: 25px;
+  margin: 50px;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.timer-container {
+  margin: -50px 20px 20px;
+}
+
+.timer-container h2 {
+  margin: 0;
+}
+
+.actions-wrapper span {
+  font-size: 40px;
+  margin: 0 10px;
+  width: 40px;
+}
+
+.clock-container {
+  border: 3px solid #fff;
+  border-radius: 20px;
+  display: inline-block;
+  padding: 10px;
+  margin-top: 20px;
+  width: 400px;
+}
+
+.clock-container h1 {
+  margin-top: 0;
+}
+
+.clock-container span {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 36px;
+}
